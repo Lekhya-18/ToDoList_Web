@@ -6,7 +6,7 @@ import './App.css'
 function App() {
    return(
     <>
-      <Home />
+      <Home /> //for list & to Create Note
 
     </>
   )

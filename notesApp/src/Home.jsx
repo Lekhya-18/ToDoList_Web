@@ -5,7 +5,7 @@ import CreateNote from "./CreateNote";
 
     return(
    <>
-      <h1>My Notes App</h1>
+      <h1>My Notes App</h1> //to go to Createnote 
       <button onClick={() => setShowNote(true)}>
         Create Note
       </button>
